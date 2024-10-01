@@ -1,0 +1,100 @@
+3i,III
+Admiral Group,ADM
+Airtel Africa,AAF
+Anglo American plc,AAL
+Antofagasta plc,ANTO
+Ashtead Group,AHT
+Associated British Foods,ABF
+AstraZeneca,AZN
+Auto Trader Group,AUTO
+Aviva,AV
+B&M,BME
+BAE Systems,BA
+Barclays,BARC
+Barratt Developments,BDEV
+Beazley,BEZ
+Berkeley Group Holdings,BKG
+BP,BP
+British American Tobacco,BATS
+BT Group,BT-A
+Bunzl,BNZL
+Centrica,CNA
+Coca-Cola HBC,CCH
+Compass Group,CPG
+Convatec,CTEC
+Croda International,CRDA
+Darktrace,DARK
+DCC plc,DCC
+Diageo,DGE
+Diploma,DPLM
+Endeavour Mining,EDV
+Entain,ENT
+EasyJet,EZJ
+Experian,EXPN
+F & C Investment Trust,FCIT
+Frasers Group,FRAS
+Fresnillo plc,FRES
+Glencore,GLEN
+GSK plc,GSK
+Haleon,HLN
+Halma plc,HLMA
+Hargreaves Lansdown,HL
+Hikma Pharmaceuticals,HIK
+Hiscox,HSX
+Howdens Joinery,HWDN
+HSBC,HSBA
+IHG Hotels & Resorts,IHG
+IMI,IMI
+Imperial Brands,IMB
+Informa,INF
+Intermediate Capital Group,ICG
+International Airlines Group,IAG
+Intertek,ITRK
+JD Sports,JD
+Kingfisher plc,KGF
+Land Securities,LAND
+Legal & General,LGEN
+Lloyds Banking Group,LLOY
+LondonMetric Property,LMP
+London Stock Exchange Group,LSEG
+M&G,MNG
+Marks & Spencer,MKS
+Melrose Industries,MRO
+Mondi,MNDI
+National Grid plc,NG
+NatWest Group,NWG
+Next plc,NXT
+Pearson plc,PSON
+Pershing Square Holdings,PSH
+Persimmon,PSN
+Phoenix Group,PHNX
+Prudential plc,PRU
+Reckitt,RKT
+RELX,REL
+Rentokil Initial,RTO
+Rightmove,RMV
+Rio Tinto,RIO
+Rolls-Royce Holdings,RR
+Sage Group,SGE
+Sainsbury's,SBRY
+Schroders,SDR
+Scottish Mortgage Investment Trust,SMT
+Segro,SGRO
+Severn Trent,SVT
+Shell plc,SHEL
+DS Smith,SMDS
+Smiths Group,SMIN
+Smith & Nephew,SN
+Spirax Group,SPX
+SSE plc,SSE
+Standard Chartered,STAN
+Taylor Wimpey,TW
+Tesco,TSCO
+Unilever,ULVR
+United Utilities,UU
+Unite Group,UTG
+Vistry Group,VTY
+Vodafone Group,VOD
+Weir Group,WEIR
+Whitbread,WTB
+WPP plc,WPP

@@ -1,0 +1,44 @@
+[
+    {
+        "company":"Pershing Square Holdings",
+        "ticker":"PSH",
+        "title":"Pershing Square Holdings, Ltd. (OTCMKTS:PSHZF) Short Interest Update",
+        "description":"Pershing Square Holdings, Ltd. (OTCMKTS:PSHZF \u2013 Get Free Report) was the recipient of a large decrease in short interest during the month of September. As of September 15th, there was short interest totalling 2,800 shares, a decrease of 15.2% from the August \u2026",
+        "content":"Pershing Square Holdings, Ltd. (OTCMKTS:PSHZF \u2013 Get Free Report) was the recipient of a large decrease in short interest during the month of September. As of September 15th, there was short interest \u2026 [+1703 chars]",
+        "url":"https:\/\/www.etfdailynews.com\/2024\/09\/28\/pershing-square-holdings-ltd-otcmktspshzf-short-interest-update\/",
+        "source":"ETF Daily News",
+        "published_at":1727545855000,
+        "collected_at":1727696546914,
+        "sentiment_label":"Negative",
+        "sentiment_probabolity":0.6028269529,
+        "sentiment_vector":-0.6028269529
+    },
+    {
+        "company":"Pershing Square Holdings",
+        "ticker":"PSH",
+        "title":"Pershing Square Holdings, Ltd. Releases Regular Weekly Net Asset Value and Year-To-Date Return As Of 10 September 2024",
+        "description":"Pershing Square Holdings, Ltd. Releases Regular Weekly Net Asset Value and Year-To-Date Return As Of 10 September 2024",
+        "content":"LONDON--(BUSINESS WIRE)--Regulatory News:\r\nPershing Square Holdings, Ltd. (LN:PSH) (LN:PSHD) (NA:PSH) today released its regular weekly Net Asset Value (NAV) and performance returns on its website, h\u2026 [+2109 chars]",
+        "url":"https:\/\/www.investing.com\/news\/press-releases\/pershing-square-holdings-ltd-releases-regular-weekly-net-asset-value-and-yeartodate-return-as-of-10-september-2024-93CH-3612367",
+        "source":"Investing.com",
+        "published_at":1726090809000,
+        "collected_at":1727696546914,
+        "sentiment_label":"Neutral",
+        "sentiment_probabolity":0.9999998808,
+        "sentiment_vector":0.0
+    },
+    {
+        "company":"Pershing Square Holdings",
+        "ticker":"PSH",
+        "title":"Pershing Square Holdings, Ltd. Releases Regular Weekly Net Asset Value and Year-To-Date Return As Of 17 September 2024",
+        "description":"Pershing Square Holdings, Ltd. Releases Regular Weekly Net Asset Value and Year-To-Date Return As Of 17 September 2024",
+        "content":"LONDON--(BUSINESS WIRE)--Regulatory News:\r\nPershing Square Holdings, Ltd. (LN:PSH) (LN:PSHD) (NA:PSH) today released its regular weekly Net Asset Value (NAV) and performance returns on its website, h\u2026 [+2108 chars]",
+        "url":"https:\/\/www.investing.com\/news\/press-releases\/pershing-square-holdings-ltd-releases-regular-weekly-net-asset-value-and-yeartodate-return-as-of-17-september-2024-93CH-3622406",
+        "source":"Investing.com",
+        "published_at":1726694883000,
+        "collected_at":1727696546914,
+        "sentiment_label":"Neutral",
+        "sentiment_probabolity":0.9999998808,
+        "sentiment_vector":0.0
+    }
+]
